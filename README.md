@@ -1,0 +1,2 @@
+# Android-Based-Mobile-Application-using-Activity-and-Intent.
+An Activity is something that the users interact with. It has a user interface associated with it. Each full screen of an Android app is an Activity but there can be other instances where smaller elements on the screen may represent separate activities.   An Intent, on the other hand, is sort of a transitive tool between activities. It is used to launch other activities from the current activity, invoke system resources like the Camera or Photo Gallery, pass data between activities, etc.
